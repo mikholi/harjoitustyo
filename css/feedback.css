@@ -1,0 +1,29 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../img/wallpaper.jpg);
+    color: aliceblue;
+}
+
+
+
+
+footer {
+    margin-top: auto;
+}
+
+.col:nth-child(2) {
+    background-image: url('../img/background_controller.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 502px; 
+}
+
+h3 {
+    text-decoration: underline;
+    
+}
+
+
