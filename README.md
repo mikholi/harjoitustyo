@@ -1,5 +1,6 @@
 ﻿# harjoitustyo
-Harjoitustyö webohjelmoinnin kurssille
+
+
 **Harjoitustyö**
 Tein tämän harjoitustyön käyttäen RAWG Videogame-apia (https://rawg.io/) joka vaikutti hyvältä, mutta osoittautui sittemmin pettymykseksi koska en osannut tehdä hakulomakkeesta omilla tietotaidoilla vielä kovinkaan kummoista. Yritin etsiä tästä palvelusta tietoa miten videopelien etsimisestä saisi hienomman, esimerkiksi mukaan pelien kansikuvat tai jotain muuta informaatiota, mutta tietääkseni olisi täytynyt ottaa maksullinen versio. API-avain löytyy Word-tiedostosta jonka palautan sinulle Moodlessa. API-avain laitetaan "gamesearch.js tiedostoon, riville 2, const apiKey = "TÄHÄN API AVAIN".
 **Sivut**
